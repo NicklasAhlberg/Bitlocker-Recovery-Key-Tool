@@ -2,7 +2,7 @@
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"18px"}}} -->
 <p style="font-size:18px">Have you ever been fumbling around, looking for the Bitlocker recovery key but don't know exactly where to look? - add to that having a user on the phone, anxious to start working.. the struggle is real! <br>This tool will make it extremely easy to fetch the key regardless if the key is stored in AD or Azure AD - from a single tool.<br></p>
 <!-- /wp:paragraph -->
-https://usercontent.one/wp/www.nicklasahlberg.se/wp-content/uploads/2022/03/2022-0d3-26_11-12-50.png
+
 <!-- wp:heading -->
 <h2>Prerequisites</h2>
 <!-- /wp:heading -->
